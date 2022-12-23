@@ -2,7 +2,7 @@
 <h3 align="center">am an impact-driven software developer that harnesses the power of tech in building products that are innovative and provide solutions to customer needs.</h3>
 <img align=“right” alt=“Coding” width=“400” src =“https://tenor.com/view/programming-gif-25868426”>
 
-<p align="left"> <a href="https://twitter.com/devgirl_esther" target="blank"><img src="https://img.shields.io/twitter/follow/devgirl_esther?logo=twitter&style=for-the-badge" alt="devgirl_esther" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Esther__Edoho" target="blank"><img src="https://img.shields.io/twitter/follow/Esther__Edoho?logo=twitter&style=for-the-badge" alt="devgirl_esther" /></a> </p>
 
 - 🔭 I’m currently working on **an e-commerce website.**
 
