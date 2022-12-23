@@ -1,3 +1,4 @@
+![Header](./github-header-image (2).png)
 <h1 align="center">Hi 👋, I'm Esther Edoho</h1>
 <h3 align="center">am an impact-driven software developer that harnesses the power of tech in building products that are innovative and provide solutions to customer needs.</h3>
 <img align=“right” alt=“Coding” width=“400” src =“https://tenor.com/view/programming-gif-25868426”>
