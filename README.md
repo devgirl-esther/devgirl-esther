@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **an e-commerce website.**
 
-- 🌱 I’m currently learning **I’m currently learning SQL,React,Node and Express.**
+- 🌱 I’m currently learning **SQL,React,Node and Express.**
 
 - 👯 I’m looking to collaborate on **frontend, backend and open source projects.**
 
