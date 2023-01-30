@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/Esther__Edoho" target="blank"><img src="https://img.shields.io/twitter/follow/Esther__Edoho?logo=twitter&style=for-the-badge" alt="devgirl_esther" /></a> </p>
 
 
-- 🔭 I’m currently working on ** a video communication app.**
+- 🔭 I’m currently working on **a video communication app.**
 
 - 🌱 I’m currently learning **SQL,React,Node and Express.**
 
