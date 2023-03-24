@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Ask me about Data Analytics and Software Engineering.**
 
-- 📫 How to reach me **edoho.esther9gmail.com**
+- 📫 How to reach me **edohoesther9@gmail.com**
 
 - ⚡ Fun fact **I love cooking and teaching kids.**
 
