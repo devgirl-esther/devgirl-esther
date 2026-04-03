@@ -1,7 +1,4 @@
 ![Header](./github-header-image.png)
-<p align="center">
-  <img src="HEADER_IMAGE_LINK_HERE" alt="Data Science Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi, I'm Esther Edoho 👋</h1>
 
