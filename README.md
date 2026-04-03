@@ -40,7 +40,135 @@ I am currently concentrating fully on **Data Analytics and Data Science roles**.
 - KPI Analysis
 - Data Storytelling
 <p align="left"> <a href="https://twitter.com/Esther__Edoho" target="blank"><img src="https://img.shields.io/twitter/follow/Esther__Edoho?logo=twitter&style=for-the-badge" alt="devgirl_esther" /></a> </p>
+**Tools:**  
+Python • Pandas • NumPy • SQL • Excel • Power BI • Matplotlib • Seaborn
 
+---
+
+### Machine Learning & Data Science
+- Regression & Classification Models
+- Feature Engineering
+- Model Evaluation
+- Data Preprocessing Pipelines
+- Neural Network Fundamentals
+
+**Libraries:**  
+Scikit-learn • TensorFlow/Keras • Jupyter Notebook
+
+---
+
+### Data Engineering Foundations
+- ETL workflows
+- API data extraction
+- Structured & semi-structured data processing
+- Data pipeline design basics
+
+---
+
+### Software Engineering (Data-Oriented)
+- Python application development
+- Git version control & collaboration
+- Modular and maintainable code practices
+
+**Tech:**  
+Python • JavaScript • Git • GitHub • REST APIs
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Customer Behaviour Analysis
+**Objective:** Identify drivers of customer retention using data analysis.
+
+- Cleaned and transformed datasets using Pandas
+- Performed exploratory analysis to uncover trends
+- Built visualisations to communicate insights
+- Delivered actionable recommendations
+
+**Tech:** Python, Pandas, SQL, Matplotlib
+
+🔗 Project Repo: [Add Link]
+
+---
+
+### 🤖 Machine Learning Prediction Model
+**Objective:** Build predictive models using supervised learning.
+
+- Developed preprocessing and feature engineering pipeline
+- Compared multiple ML algorithms
+- Evaluated models using accuracy and F1-score
+- Improved performance through tuning
+
+**Tech:** Python, Scikit-learn, NumPy
+
+🔗 Project Repo: [Add Link]
+
+---
+
+### 📈 Business Data Dashboard
+**Objective:** Convert raw business data into decision-ready dashboards.
+
+- Designed KPI dashboards
+- Automated data preparation workflows
+- Communicated findings for non-technical stakeholders
+
+**Tech:** Power BI / Python
+
+🔗 Project Repo: [Add Link]
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+Python • SQL • JavaScript
+
+**Data Tools**  
+Pandas • NumPy • Scikit-learn • Excel • Power BI
+
+**Visualisation**  
+Matplotlib • Seaborn • Power BI
+
+**Development Tools**  
+Git • GitHub • Jupyter • VS Code
+
+---
+
+## 📚 Currently Developing
+
+- Advanced machine learning workflows
+- Statistical modelling for real-world datasets
+- Analytics for product and business decision-making
+- Production-ready data pipelines
+
+---
+
+## 🎯 Career Interests
+
+I am open to opportunities in:
+
+- Data Analyst
+- Junior Data Scientist
+- Analytics Engineer
+- Data-focused Software Engineering roles
+
+(Open to internships, graduate roles, and entry-level opportunities across the UK.)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Add LinkedIn Link]
+- 📫 Email: [Add Email]
+- 📁 Portfolio: [Add Portfolio Link]
+
+---
+
+## ⭐ Philosophy
+
+> Good code runs.  
+> Good analysis explains.  
+> Great data work drives decisions.
 
 
 
