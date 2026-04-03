@@ -11,7 +11,34 @@ Turning data into insights, models, and decision-ready solutions.
 </p>
 <img align=“right” alt=“Coding” width=“100” src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
+## 📊 About Me
 
+I am a Data Science MSc student with a background in software engineering and petroleum engineering, focused on building **data-driven solutions that solve real business problems**.
+
+My work combines analytics, statistics, and software engineering to transform raw data into actionable insights and scalable tools.
+
+I am currently concentrating fully on **Data Analytics and Data Science roles**.
+
+---
+
+## 🚀 What I Bring
+
+- 📈 Data analysis that translates into business insight
+- 🧹 Clean, reproducible data workflows
+- 🤖 Machine learning model development & evaluation
+- 📊 Clear data visualisation and storytelling
+- 💻 Production-quality Python and SQL code
+
+---
+
+## 🧠 Technical Skills
+
+### Data Analytics
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Statistical Analysis
+- KPI Analysis
+- Data Storytelling
 <p align="left"> <a href="https://twitter.com/Esther__Edoho" target="blank"><img src="https://img.shields.io/twitter/follow/Esther__Edoho?logo=twitter&style=for-the-badge" alt="devgirl_esther" /></a> </p>
 
 
