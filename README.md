@@ -1,4 +1,7 @@
-![Header]([./github-header-image.png](https://github.com/devgirl-esther/devgirl-esther/blob/main/Esther%20Edoho%20-%20Data%20Science%20Profile%20Banner.png?raw=true)
+<p align="center">
+  <img src="./github-header-image.png](https://github.com/devgirl-esther/devgirl-esther/blob/main/Esther%20Edoho%20-%20Data%20Science%20Profile%20Banner.png?raw=true" width="100%" />
+</p>
+
 
 
 <h1 align="center">Hi, I'm Esther Edoho 👋</h1>
