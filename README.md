@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/devgirl-esther/devgirl-esther/blob/main/Esther%20Edoho%20-%20Data%20Science%20Profile%20Banner.png?raw=true" width="100%" />
+  <img src="https://github.com/devgirl-esther/devgirl-esther/blob/main/ESTHER%20EDOHO%20(1).png?raw=true"100%" />
 </p>
 
 
