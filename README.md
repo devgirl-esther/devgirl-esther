@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <!-- <h1 align="center">Hi 👋, I'm Esther Edoho</h1>-->
-<h3 align="center">Data Scientist | MSc Data Science | SQL • Python • Power BI.</h3></h2>
+<h3 align="center">I specialise in transforming raw data into actionable business insights through analytics, visualisation, and storytelling.</h3></h2>
 <img align=“right” alt=“Coding” width=“400” src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 
