@@ -1,21 +1,24 @@
 ![Header](./github-header-image.png)
-<!-- <h1 align="center">Hi 👋, I'm Esther Edoho</h1>-->
-<h3 align="center">I specialise in transforming raw data into actionable business insights through analytics, visualisation, and storytelling.</h3></h2>
+<p align="center">
+  <img src="HEADER_IMAGE_LINK_HERE" alt="Data Science Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Esther Edoho 👋</h1>
+
+<p align="center">
+Data Analyst • Data Scientist • Data-Focused Software Engineer
+</p>
+
+<p align="center">
+Turning data into insights, models, and decision-ready solutions.
+</p>
 <img align=“right” alt=“Coding” width=“400” src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 
 <p align="left"> <a href="https://twitter.com/Esther__Edoho" target="blank"><img src="https://img.shields.io/twitter/follow/Esther__Edoho?logo=twitter&style=for-the-badge" alt="devgirl_esther" /></a> </p>
 
 
-- 🔭 I’m currently working on **a video communication app.**
 
-- 🌱 I’m currently learning **SQL,React,Node and Express.**
-
-- 👯 I’m looking to collaborate on **frontend, backend and open source projects.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/devgirl-esther](https://github.com/devgirl-esther)
-
-- 💬 Ask me about **Ask me about Data Analytics and Software Engineering.**
 
 - 📫 How to reach me **edohoesther9@gmail.com**
 
