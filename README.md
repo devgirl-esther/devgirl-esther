@@ -91,7 +91,7 @@ Python • JavaScript • Git • GitHub • REST APIs
 
 **Tech:** Python, Pandas, SQL, Matplotlib
 
-🔗 Project Repo: [Add Link]
+🔗 Project Repo:
 
 ---
 
@@ -105,7 +105,7 @@ Python • JavaScript • Git • GitHub • REST APIs
 
 **Tech:** Python, Scikit-learn, NumPy
 
-🔗 Project Repo: [Add Link]
+🔗 Project Repo: 
 
 ---
 
@@ -118,7 +118,7 @@ Python • JavaScript • Git • GitHub • REST APIs
 
 **Tech:** Power BI / Python
 
-🔗 Project Repo: [Add Link]
+🔗 Project Repo:
 
 ---
 
