@@ -9,7 +9,7 @@ Data Analyst • Data Scientist • Data-Focused Software Engineer
 <p align="center">
 Turning data into insights, models, and decision-ready solutions.
 </p>
-<img align=“right” alt=“Coding” width=“400” src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
+<img align=“right” alt=“Coding” width=“200” src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 
 <p align="left"> <a href="https://twitter.com/Esther__Edoho" target="blank"><img src="https://img.shields.io/twitter/follow/Esther__Edoho?logo=twitter&style=for-the-badge" alt="devgirl_esther" /></a> </p>
