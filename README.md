@@ -39,7 +39,7 @@ I am currently concentrating fully on **Data Analytics and Data Science roles**.
 - Statistical Analysis
 - KPI Analysis
 - Data Storytelling
-<p align="left"> <a href="https://twitter.com/Esther__Edoho" target="blank"><img src="https://img.shields.io/twitter/follow/Esther__Edoho?logo=twitter&style=for-the-badge" alt="devgirl_esther" /></a> </p>
+
 **Tools:**  
 Python • Pandas • NumPy • SQL • Excel • Power BI • Matplotlib • Seaborn
 
@@ -158,10 +158,10 @@ I am open to opportunities in:
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Add LinkedIn Link]
-- 📫 Email: [Add Email]
+- 💼 LinkedIn: **https://www.linkedin.com/in/edohoesther**
+- 📫 Email: **edohoesther9@gmail.com**
 - 📁 Portfolio: [Add Portfolio Link]
-
+<p align="left"> <a href="https://twitter.com/Esther__Edoho" target="blank"><img src="https://img.shields.io/twitter/follow/Esther__Edoho?logo=twitter&style=for-the-badge" alt="devgirl_esther" /></a> </p>
 ---
 
 ## ⭐ Philosophy
@@ -172,7 +172,7 @@ I am open to opportunities in:
 
 
 
-- 📫 How to reach me **edohoesther9@gmail.com**
+
 
 - ⚡ Fun fact **I love cooking and teaching kids.**
 
