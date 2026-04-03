@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 <!-- <h1 align="center">Hi 👋, I'm Esther Edoho</h1>-->
+<h2 align="center"> <h3 align="center"> I am an impact-driven MERN stack developer\Data Analyst that harnesses the power of tech in building products that are innovative and provide solutions to customer needs.</h3></h2>
 <h3 align="center"> I am an impact-driven MERN stack developer\Data Analyst that harnesses the power of tech in building products that are innovative and provide solutions to customer needs.</h3>
 <img align=“right” alt=“Coding” width=“400” src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
