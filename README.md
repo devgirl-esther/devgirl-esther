@@ -78,7 +78,7 @@ Built an end-to-end fraud detection pipeline with feature engineering, model eva
 - Improve detection using feature engineering and threshold tuning
 **Tech:** Python, Pandas, Matplotlib, SK Learn
 
-🔗 Project Repo:
+🔗 Project Repo:https://github.com/devgirl-esther/Fraud-Detection-Data-Analysis-and-ML-
 
 ---
 
