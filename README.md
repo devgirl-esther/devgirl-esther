@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi, I'm Esther Edoho 👋</h1>
+<h1 align="center">Hi, I'm Esther Edoho</h1>
 
 <p align="center">
 Data Analyst • Data Scientist • Data-Focused Software Engineer
@@ -15,9 +15,9 @@ Turning data into insights, models, and decision-ready solutions.
 </p>
 <img align=“right” alt=“Coding” width=“100” src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
-## 📊 About Me
+## About Me
 
-I am a Data Science MSc student with a background in software engineering and petroleum engineering, focused on building **data-driven solutions that solve real business problems**.
+I am a Data Geek  with a background in software engineering and petroleum engineering, focused on building **data-driven solutions that solve real business problems**.
 
 My work combines analytics, statistics, and software engineering to transform raw data into actionable insights and scalable tools.
 
@@ -25,17 +25,17 @@ I am currently concentrating fully on **Data Analytics and Data Science roles**.
 
 ---
 
-## 🚀 What I Bring
+## What I Bring
 
-- 📈 Data analysis that translates into business insight
-- 🧹 Clean, reproducible data workflows
-- 🤖 Machine learning model development & evaluation
-- 📊 Clear data visualisation and storytelling
-- 💻 Production-quality Python and SQL code
+-  Data analysis that translates into business insight
+- Clean, reproducible data workflows
+- Machine learning model development & evaluation
+- Clear data visualisation and storytelling
+- Production-quality Python and SQL code
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 ### Data Analytics
 - Exploratory Data Analysis (EDA)
@@ -81,7 +81,7 @@ Python • JavaScript • Git • GitHub • REST APIs
 
 ## 📂 Featured Projects
 
-### 📊 Customer Behaviour Analysis
+### Customer Behaviour Analysis
 **Objective:** Identify drivers of customer retention using data analysis.
 
 - Cleaned and transformed datasets using Pandas
@@ -95,32 +95,7 @@ Python • JavaScript • Git • GitHub • REST APIs
 
 ---
 
-### 🤖 Machine Learning Prediction Model
-**Objective:** Build predictive models using supervised learning.
 
-- Developed preprocessing and feature engineering pipeline
-- Compared multiple ML algorithms
-- Evaluated models using accuracy and F1-score
-- Improved performance through tuning
-
-**Tech:** Python, Scikit-learn, NumPy
-
-🔗 Project Repo: 
-
----
-
-### 📈 Business Data Dashboard
-**Objective:** Convert raw business data into decision-ready dashboards.
-
-- Designed KPI dashboards
-- Automated data preparation workflows
-- Communicated findings for non-technical stakeholders
-
-**Tech:** Power BI / Python
-
-🔗 Project Repo:
-
----
 
 ## 🛠 Tech Stack
 
@@ -160,23 +135,12 @@ I am open to opportunities in:
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/edohoesther**
 - 📫 Email: **edohoesther9@gmail.com**
 - 📁 Portfolio: [Add Portfolio Link]
 <p align="left"> <a href="https://twitter.com/Esther__Edoho" target="blank"><img src="https://img.shields.io/twitter/follow/Esther__Edoho?logo=twitter&style=for-the-badge" alt="devgirl_esther" /></a> </p>
----
-
-## ⭐ Philosophy
-
-> Good code runs.  
-> Good analysis explains.  
-> Great data work drives decisions.
-
-
-
-
 
 - ⚡ Fun fact **I love cooking and teaching kids.**
 
