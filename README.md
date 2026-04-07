@@ -70,12 +70,12 @@ Scikit-learn • TensorFlow/Keras • Jupyter Notebook
 ---
 
 ### Software Engineering (Data-Oriented)
-- Python application development
+- Data Driven Frontend Development
 - Git version control & collaboration
 - Modular and maintainable code practices
 
 **Tech:**  
-Python • JavaScript • Git • GitHub • REST APIs
+ JavaScript • Git • GitHub • React
 
 ---
 
