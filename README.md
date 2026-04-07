@@ -67,29 +67,16 @@ Scikit-learn • TensorFlow/Keras • Jupyter Notebook
 - Structured & semi-structured data processing
 - Data pipeline design basics
 
----
-
-### Software Engineering (Data-Oriented)
-- Data Driven Frontend Development
-- Git version control & collaboration
-- Modular and maintainable code practices
-
-**Tech:**  
- JavaScript • Git • GitHub • React
-
----
-
 ## 📂 Featured Projects
 
-### Customer Behaviour Analysis
-**Objective:** Identify drivers of customer retention using data analysis.
+###  Fraud Detection using Machine Learning
+Built an end-to-end fraud detection pipeline with feature engineering, model evaluation (ROC-AUC, precision/recall), and threshold tuning for imbalanced data.
 
-- Cleaned and transformed datasets using Pandas
-- Performed exploratory analysis to uncover trends
-- Built visualisations to communicate insights
-- Delivered actionable recommendations
-
-**Tech:** Python, Pandas, SQL, Matplotlib
+**Objective:** 
+- Identify patterns in fraudulent transactions
+- Build and evaluate classification models
+- Improve detection using feature engineering and threshold tuning
+**Tech:** Python, Pandas, Matplotlib, SK Learn
 
 🔗 Project Repo:
 
