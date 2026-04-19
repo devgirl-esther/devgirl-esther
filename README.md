@@ -9,6 +9,13 @@ I build end-to-end data solutions — from cleaning and validating data in SQL t
 ## 🔹 Featured Projects
 
 ### 📊 A/B Testing Analysis (Snowflake + SQL + Python)
+## Business Problem
+A company tested a new landing page to increase user conversions.  
+The goal was to determine whether the new page led to a statistically significant improvement.
+
+## Key Result
+The test showed no statistically significant improvement (p ≈ 0.19),  
+indicating the new design should not be deployed.
 
 Built an end-to-end A/B testing pipeline to evaluate landing page performance.
 
@@ -22,6 +29,10 @@ Built an end-to-end A/B testing pipeline to evaluate landing page performance.
 ---
 
 ### 🔍 Fraud Detection using Machine Learning
+
+## Business Impact
+Accurate fraud detection reduces financial loss and protects users.  
+The selected model prioritised minimising false negatives to ensure fraudulent transactions are not missed.
 
 Developed a fraud detection model using classification techniques.
 
