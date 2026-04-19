@@ -76,7 +76,7 @@ Actively seeking **Data Analyst** and **Junior Data Scientist** roles in the UK.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/edohoesther
 * Email: [edohoesther9@gmail.com](mailto:edohoesther9@gmail.com)
