@@ -72,7 +72,7 @@ Git, Jupyter Notebook
 
 ## 📍 Open to Opportunities
 
-Actively seeking **Data Analyst** and **Junior Data Scientist** roles in the UK.
+Actively seeking **Data Analyst** and **Junior Data Scientist** roles.
 
 ---
 
