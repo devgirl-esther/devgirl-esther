@@ -1,10 +1,24 @@
 # Hi, I'm Esther Edoho 
 
-**Data Analyst | Data Scientist | Data-Focused Software Engineer**
+**Data Scientist | Analytics Professional | Data-Focused Software Engineer**
+# Hi, I'm Esther Edoho 👋
 
-I build end-to-end data solutions — from cleaning and validating data in SQL to analysing and modelling in Python.
 
----
+I combine  analytics, machine learning and software engineering, to solve business problems and support data-driven decision-making.
+
+MSc in Data Science at the University of Sussex, with prior experience in software engineering and a background in Petroleum Engineering.
+
+My interests include:
+
+* Product Analytics & Experimentation
+* Fraud & Risk Analytics
+* Predictive Modelling
+* Energy & Sustainability Analytics
+* Machine Learning Applications
+
+I'm actively building projects that turn complex datasets into actionable business insights.
+
+
 
 ##  Featured Projects
 
