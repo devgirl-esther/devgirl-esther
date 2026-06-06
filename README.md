@@ -1,7 +1,7 @@
 # Hi, I'm Esther Edoho 
 
 **Data Scientist | Analytics Professional | Data-Focused Software Engineer**
-# Hi, I'm Esther Edoho 👋
+
 
 
 I combine  analytics, machine learning and software engineering, to solve business problems and support data-driven decision-making.
