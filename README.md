@@ -1,4 +1,4 @@
-# Hi, I'm Esther Edoho 👋
+# Hi, I'm Esther Edoho 
 
 **Data Analyst | Data Scientist | Data-Focused Software Engineer**
 
@@ -6,7 +6,7 @@ I build end-to-end data solutions — from cleaning and validating data in SQL t
 
 ---
 
-## 🔹 Featured Projects
+##  Featured Projects
 
 ### A/B Testing Analysis (Snowflake + SQL + Python)
 ## Business Problem
@@ -21,7 +21,7 @@ Built an end-to-end A/B testing pipeline to evaluate landing page performance.
 
 * Cleaned and validated data using Snowflake and SQL
 * Removed mismatches and duplicates to ensure experiment integrity
-* Performed statistical testing (t-test) to evaluate impact
+* Performed statistical testing (t-test) to evaluate the impact
 * Found no statistically significant improvement (p ≈ 0.19)
 
 🔗 https://github.com/devgirl-esther/ab-testing-analysis
