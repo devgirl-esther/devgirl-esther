@@ -10,11 +10,12 @@ MSc in Data Science at the University of Sussex, with prior experience in softwa
 
 My interests include:
 
-* Product Analytics & Experimentation
+
 * Fraud & Risk Analytics
-* Predictive Modelling
-* Energy & Sustainability Analytics
-* Machine Learning Applications
+* Product Analytics & Experimentation
+* Customer Analytics
+* Decision Science
+* Energy Analytics
 
 I'm actively building projects that turn complex datasets into actionable business insights.
 
@@ -57,6 +58,26 @@ Developed a fraud detection model using classification techniques.
 🔗 https://github.com/devgirl-esther/Fraud-Detection-Data-Analysis-and-ML
 
 ---
+### Energy Demand Forecasting & Generation Analysis (Python + Machine Learning)
+
+Business Problem
+
+Energy providers need reliable demand forecasts to support grid planning, generation scheduling, and operational decision-making.
+The goal of this project was to analyse electricity demand and generation patterns and build predictive models to estimate energy demand.
+
+Key Result
+
+Gradient Boosting achieved the strongest performance with an R² score of approximately 0.70, outperforming Random Forest and the baseline model.
+
+Built an end-to-end energy analytics workflow to explore demand patterns and compare machine learning models.
+
+* Cleaned and prepared electricity demand and generation data
+* Explored trends in energy demand and generation behaviour
+* Built baseline, Random Forest, and Gradient Boosting models
+* Compared model performance using MAE and R²
+* Identified Gradient Boosting as the best-performing model for demand prediction
+
+🔗 https://github.com/devgirl-esther/energy-analysis
 
 ## 🔹 Skills
 
