@@ -107,7 +107,7 @@ Git, Jupyter Notebook
 
 ## 📍 Open to Opportunities
 
-Actively seeking **Data Analyst** and **Junior Data Scientist** roles.
+Actively seeking Data Analyst, Fraud Analyst, Risk Analyst, and Analytics roles where I can apply data-driven decision making to business problems.
 
 ---
 
