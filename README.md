@@ -95,17 +95,18 @@ Git, Jupyter Notebook
 
 ---
 
-## 🔹 What I Bring
+## What I Bring
 
-* Data analysis that drives business decisions
-* Clean, reproducible data workflows
-* Statistical analysis and A/B testing
-* Machine learning model development & evaluation
-* Clear data visualisation and storytelling
+
+*  Data analysis and business problem solving
+*  SQL, analytics and reproducible data workflows
+*  Statistical analysis, experimentation and A/B testing
+*  Fraud, risk and predictive analytics
+*  Data visualisation and stakeholder communication
 
 ---
 
-## 📍 Open to Opportunities
+## Open to Opportunities
 
 Actively seeking Data Analyst, Fraud Analyst, Risk Analyst, and Analytics roles where I can apply data-driven decision making to business problems.
 
