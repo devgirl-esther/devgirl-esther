@@ -1,6 +1,6 @@
 # Hi, I'm Esther Edoho 
 
-**Data Scientist | Analytics Professional | Data-Focused Software Engineer**
+**Data Analyst | Analytics Professional | MSc Data Science**
 
 
 
