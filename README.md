@@ -55,7 +55,7 @@ Developed a fraud detection model using classification techniques.
 * Model evaluation using ROC-AUC, precision, and recall
 * Compared Logistic Regression, Decision Tree, and Random Forest
 
-🔗 https://github.com/devgirl-esther/Fraud-Detection-Data-Analysis-and-ML
+🔗 https://github.com/devgirl-esther/Fraud-Detection-Data-Analysis-and-ML-
 
 ---
 ### Energy Demand Forecasting & Generation Analysis (Python + Machine Learning)
