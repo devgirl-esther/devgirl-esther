@@ -14,6 +14,7 @@ My interests include:
 * Fraud & Risk Analytics
 * Product Analytics & Experimentation
 * Customer Analytics
+* Health Analytics
 * Decision Science
 * Energy Analytics
 
