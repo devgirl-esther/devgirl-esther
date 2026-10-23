@@ -10,10 +10,10 @@ I’m completing an MSc in Data Science at the University of Sussex and hold a d
 
 | Project | Focus | Tools |
 |---|---|---|
+| [Fraud Detection](https://github.com/devgirl-esther/Fraud-Detection-Data-Analysis-and-ML-) | Compared classification models on imbalanced transaction data using precision, recall and ROC-AUC. | Python, scikit-learn |
 | [Brighton Bus Stop Proximity](https://github.com/devgirl-esther/brighton-bus-stop-gis-analysis) | Analysed 1,198 stop points across 165 neighbourhoods, comparing stop counts with proximity coverage. | Python, GeoPandas, Folium |
 | [Energy Analysis](https://github.com/devgirl-esther/energy-analysis) | Explored electricity demand and generation patterns and compared predictive models. | Python, Pandas, scikit-learn |
 | [A/B Testing Analysis](https://github.com/devgirl-esther/ab-testing-analysis) | Evaluated landing-page conversion and found insufficient evidence of improvement from the new page. | SQL, Snowflake, Python |
-| [Fraud Detection](https://github.com/devgirl-esther/Fraud-Detection-Data-Analysis-and-ML-) | Compared classification models on imbalanced transaction data using precision, recall and ROC-AUC. | Python, scikit-learn |
 | [Customer Churn Dashboard](https://github.com/devgirl-esther/customer-churn-tableau-dashboard) | Explored churn patterns by contract type, tenure and monthly charges. | Tableau |
 
 ## Skills
