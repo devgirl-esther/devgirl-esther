@@ -1,121 +1,32 @@
-# Hi, I'm Esther Edoho 
+Hi, I’m Esther Edoho
 
-**Data Analyst | Analytics Professional | MSc Data Science**
+Data Analytics | Machine Learning | Software Engineering
 
+I use Python, SQL and statistical analysis to investigate problems and explain what the data shows. My software engineering experience includes building applications, integrating APIs and debugging production systems.
 
+I’m completing an MSc in Data Science at the University of Sussex and hold a degree in Petroleum Engineering. My projects cover energy, transport, experimentation and fraud detection.
 
-I combine  analytics, machine learning and software engineering, to solve business problems and support data-driven decision-making.
+Selected projects
 
-MSc in Data Science at the University of Sussex, with prior experience in software engineering and a background in Petroleum Engineering.
+Project	What I investigated	Tools
+Brighton Bus Stop Proximity	Analysed 1,198 active stop points across 165 neighbourhoods. Found that four neighbourhoods with no internal stops still had approximately 100% area coverage within 500 m of nearby stops.	Python, GeoPandas, Folium
+Energy Analysis	Explored electricity demand and generation patterns and compared baseline, Random Forest and Gradient Boosting models.	Python, Pandas, scikit-learn
+A/B Testing Analysis	Cleaned experiment data and evaluated landing-page conversion. Found insufficient evidence of an improvement from the new page (p ≈ 0.19).	SQL, Snowflake, Python
+Fraud Detection	Compared classification models on imbalanced transaction data, examining precision, recall and the trade-offs involved in detecting fraud.	Python, scikit-learn
+Customer Churn Dashboard	Explored churn patterns by contract type, tenure and monthly charges.	Tableau
 
-My interests include:
+Skills
 
+* Analysis: Python, SQL, Pandas, NumPy, SciPy, hypothesis testing and A/B testing
+* Machine learning: scikit-learn, regression, classification and model evaluation
+* Visualisation: Power BI, Tableau, Matplotlib and Plotly
+* GIS: GeoPandas, coordinate transformations, buffers, spatial joins and interactive maps
+* Development: JavaScript, React, Node.js, REST APIs and Git
 
-* Fraud & Risk Analytics
-* Product Analytics & Experimentation
-* Customer Analytics
-* Health Analytics
-* Decision Science
-* Energy Analytics
+Opportunities
 
-I'm actively building projects that turn complex datasets into actionable business insights.
+Interested in data analyst and junior data science roles across energy, utilities, financial services and other sectors.
 
+Contact
 
-
-##  Featured Projects
-
-### A/B Testing Analysis (Snowflake + SQL + Python)
-## Business Problem
-A company tested a new landing page to increase user conversions.  
-The goal was to determine whether the new page led to a statistically significant improvement.
-
-## Key Result
-The test showed no statistically significant improvement (p ≈ 0.19),  
-indicating the new design should not be deployed.
-
-Built an end-to-end A/B testing pipeline to evaluate landing page performance.
-
-* Cleaned and validated data using Snowflake and SQL
-* Removed mismatches and duplicates to ensure experiment integrity
-* Performed statistical testing (t-test) to evaluate the impact
-* Found no statistically significant improvement (p ≈ 0.19)
-
-🔗 https://github.com/devgirl-esther/ab-testing-analysis
-
----
-
-### Fraud Detection using Machine Learning
-
-## Business Impact
-Accurate fraud detection reduces financial loss and protects users.  
-The selected model prioritised minimising false negatives to ensure fraudulent transactions are not missed.
-
-Developed a fraud detection model using classification techniques.
-
-* Feature engineering and preprocessing for imbalanced data
-* Model evaluation using ROC-AUC, precision, and recall
-* Compared Logistic Regression, Decision Tree, and Random Forest
-
-🔗 https://github.com/devgirl-esther/Fraud-Detection-Data-Analysis-and-ML-
-
----
-### Energy Demand Forecasting & Generation Analysis (Python + Machine Learning)
-
-Business Problem
-
-Energy providers need reliable demand forecasts to support grid planning, generation scheduling, and operational decision-making.
-The goal of this project was to analyse electricity demand and generation patterns and build predictive models to estimate energy demand.
-
-Key Result
-
-Gradient Boosting achieved the strongest performance with an R² score of approximately 0.70, outperforming Random Forest and the baseline model.
-
-Built an end-to-end energy analytics workflow to explore demand patterns and compare machine learning models.
-
-* Cleaned and prepared electricity demand and generation data
-* Explored trends in energy demand and generation behaviour
-* Built baseline, Random Forest, and Gradient Boosting models
-* Compared model performance using MAE and R²
-* Identified Gradient Boosting as the best-performing model for demand prediction
-
-🔗 https://github.com/devgirl-esther/energy-analysis
-
-## 🔹 Skills
-
-**Languages:**  
-Python, SQL  
-
-**Data Tools:**  
-Pandas, NumPy, Scikit-learn, Snowflake  
-
-**Visualisation:**  
-Matplotlib, Tableau  
-
-**Other:**  
-Git, Jupyter Notebook  
-
----
-
-## What I Bring
-
-
-*  Data analysis and business problem solving
-*  SQL, analytics and reproducible data workflows
-*  Statistical analysis, experimentation and A/B testing
-*  Fraud, risk and predictive analytics
-*  Data visualisation and stakeholder communication
-
----
-
-## Open to Opportunities
-
-Actively seeking Data Analyst, Fraud Analyst, Risk Analyst, and Analytics roles where I can apply data-driven decision making to business problems.
-
----
-
-## Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/edohoesther
-* Email: [edohoesther9@gmail.com](mailto:edohoesther9@gmail.com)
-
----
+[LinkedIn](https://www.linkedin.com/in/edohoesther) · [Email](mailto:edohoesther9@gmail.com)
